@@ -11,7 +11,7 @@
 - **Databases:** MySQL
 - **Cybersecurity Tools:** Splunk/ELK 101, MITRE, Shodan.io
 - **Computer Networks:** CCNA 1/CCNA 2
-- **Multilingual:** English (B2), Polish (C1), Belarusian (Native), Russian (Native), Italian (A2)
+- **Multilingual:** English (B2), Polish (C1), Belarusian (Native), Russian (Native), Italian (A1 - Beginner)
 
 ---
 
