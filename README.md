@@ -9,8 +9,7 @@
 
 ## 🌐 Connect With Me
 Feel free to connect with me on social media!  
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pl.linkedin.com/in/adam-rola-17b075244)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/alexeylapachuk/)
 
 ---
 
