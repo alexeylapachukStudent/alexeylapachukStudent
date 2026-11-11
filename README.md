@@ -34,11 +34,9 @@ Here's a quick look at my journey:
 
 | Year        | Milestone                                    |
 |-------------|----------------------------------------------|
-| 2018 - 2022 | Studying ICT at ZSEL Lublin                  |
-| 2023 - 2025 | Network Analyst at PPG                       |
+| 2021 - 2022 | Studying at UMK                              |  
 | 2022 - Now  | Studying Cybersecurity at Wrocław University |
-| 2024 - Now  | Graphic Designer at Eurosport Poland         |
-| 2025 - Now  | Network Engineer at Capgemini                |
+| 2025 - Now  | Network Security Engineer at Capgemini       |
 
 ---
 
