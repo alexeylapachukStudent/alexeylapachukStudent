@@ -3,7 +3,7 @@
 ## 🎓 About Me
 - 🏫 Currently studying **Cybersecurity** at **Wrocław University of Science and Technology**  
 - 💼 I work as a **Network Security Engineer**  
-- 🚀 Currently learning **SC-200**, **Network Security**, and preparing for **SAL1** and **BLT1**
+- 🚀 Currently learning **Network Security** **SOC L1**, and preparing for **SAL1**, **BLT1** and **SC-200**
 
 ---
 
@@ -33,7 +33,7 @@ Here's a quick look at my journey:
 |-------------|----------------------------------------------|
 | 2021 - 2022 | Studying at UMK                              |  
 | 2022 - Now  | Studying Cybersecurity at Wrocław University |
-| 2025 - Now  | Network Security Engineer at Capgemini       |
+| 2025 - Now  | Network Security Engineer at Nokia           |
 
 ---
 
